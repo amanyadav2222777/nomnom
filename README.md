@@ -1,6 +1,6 @@
 # Nom Nom
 
-A simple Flutter app that displays a list of places via the Google Places API.
+A Simple Flutter App that displays a list of Places via the Google Places API.
 
 ## GetStarted with Flutter
 
